@@ -14,28 +14,22 @@ This guide covers the steps to:
 - Connect and manage your Kubernetes cluster with Argo CD.
 
 
-## Architecture
 
-![Architecture diagram](k8s-kind-voting-app.png)
+![img alt](https://github.com/kadamvignesh/k8s-kind-voting-app/blob/main/Screenshot%20(115).png?raw=true)
 
-## Observability
-
-![Grafana diagram](grafana.png)
-![Prometheus diagram](prometheus.png)
-
-* A front-end web app in [Python](/vote) which lets you vote between two options
-* A [Redis](https://hub.docker.com/_/redis/) which collects new votes
-* A [.NET](/worker/) worker which consumes votes and stores them in…
-* A [Postgres](https://hub.docker.com/_/postgres/) database backed by a Docker volume
-* A [Node.js](/result) web app which shows the results of the voting in real time
+![img alt](https://github.com/kadamvignesh/k8s-kind-voting-app/blob/main/Screenshot%20(114).png?raw=true)
 
 
+![img alt](https://github.com/kadamvignesh/k8s-kind-voting-app/blob/main/Screenshot%20(116).png?raw=true)
 
-## Resume Description
 
-### Project Title: 
+![img alt](https://github.com/kadamvignesh/k8s-kind-voting-app/blob/main/Screenshot%20(119).png?raw=true)
 
-Automated Deployment of Scalable Applications on AWS EC2 with Kubernetes and Argo CD
+
+![img alt](https://github.com/kadamvignesh/k8s-kind-voting-app/blob/main/Screenshot%20(121).png?raw=true)
+
+
+
 
 ### Description: 
 
@@ -55,6 +49,5 @@ Achieved seamless scaling and high availability, supporting 99.9% uptime for cri
 This project description emphasizes your role in leveraging AWS EC2, Kubernetes, and Argo CD to optimize application deployment and management processes effectively.
 
 
-### Aapke DevOps Wale Bhaiya
-### [TrainWithShubham](https://www.trainwithshubham.com/)
+
 
