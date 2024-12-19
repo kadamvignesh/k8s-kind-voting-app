@@ -28,6 +28,8 @@ Led the deployment of scalable applications on AWS EC2 using Kubernetes and Argo
 * AWS EC2: Infrastructure hosting for Kubernetes clusters.
 * Kubernetes Dashboard: User-friendly interface for managing containerized applications.
 * Argo CD: Continuous Delivery tool for automated application deployments.
+* Prometheus: Collecting and storing metrics to monitor systems
+* Grafana: Producing charts, graphs, and alerts for the web when connected to supported data sources.
 
 ### Achievements:
 
